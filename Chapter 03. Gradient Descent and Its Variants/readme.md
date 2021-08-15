@@ -1,0 +1,11 @@
+# Content
+* [Gradient Descent](./demo_03.00.ipynb)
+* [Stochastic Gradient Descent (SGD)](./demo_03.01.ipynb)
+* [Momentum Gradient Descent](./demo_03.02.ipynb)
+* [Nesterov Accelerated Gradient (NAG)](demo_03.03.ipynb)
+* [AdaGrad](./demo_03.04.ipynb)
+* [AdaDelta](./demo_03.05.ipynb)
+* [RMSProp](./demo_03.06.ipynb)
+* [Adam](./demo_03.07.ipynb)
+* [Ndam](./demo_03.08.ipynb)
+* [For more](https://ruder.io/optimizing-gradient-descent/)
